@@ -1,5 +1,7 @@
 # Data Analysis Portfolio
 Portfolio of data analysis related projects by Ryan Carroll.
+* [Main Github Page](https://github.com/ryanjcarroll)
+* [LinkedIn](https://www.linkedin.com/in/ryan770)
 
 # Project 1: [Recipe Data Analysis from Allrecipes](https://github.com/ryanjcarroll/Recipes-Data-Analysis)
 * Web scraped ~4,000 recipes from Allrecipes.com using Python's BeautifulSoup and JSON libraries.
