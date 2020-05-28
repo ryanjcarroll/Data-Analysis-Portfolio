@@ -10,3 +10,9 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Analyzed distribution of recommended serving sizes and cook times, and generated visualizations using Matplotlib.
 
 ![Bar chart showing most common ingredients in Allrecipes posts](https://i.imgur.com/3ei8CEC.png)
+
+# Project 2: [MLB Free Agent Contract Analysis](https://github.com/ryanjcarroll/MLB-Free-Agents-Data-Analysis)
+* Web scraped all MLB free agent contract signings (2006-2019) from tables on ESPN.com, using BeautifulSoup and JSON.
+* Used Pandas to clean the scraped data, ignoring certain types of low-value contracts such as retirements and minor league signings. Also converted the types of several scraped values.
+* Generated visualizations of how contract sizes vary by player age and they year they were signed.
+![Bar chart showing MLB contract values by player age](https://i.imgur.com/Jr0TDPW.png)
