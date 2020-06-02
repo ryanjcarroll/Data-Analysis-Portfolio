@@ -15,5 +15,7 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Web scraped all MLB free agent contract signings (2006-2019) from tables on ESPN.com, using BeautifulSoup and JSON.
 * Used Pandas to clean the scraped data, ignoring certain types of low-value data such as minor league signings and retirements. Also converted several scraped values from formatted strings to integers and corrected bad values.
 * Generated visualizations of how contract sizes vary by player age and the year they were signed, using Seaborn and Matplotlib.
+* Also web scraped the primary and secondary colors for each MLB team to format team-breakdown graphs.
 
 ![Bar chart showing MLB contract values by player age](https://i.imgur.com/4VR4Svb.png)
+![Bar chart showing largest MLB contract values by team](https://i.imgur.com/p1ZD6hL.png)
