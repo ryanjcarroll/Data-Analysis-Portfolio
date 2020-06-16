@@ -7,6 +7,7 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Web scraped all MLB free agent contract signings (2006-2019) from tables on ESPN.com, using BeautifulSoup and JSON.
 * Used Pandas to clean the scraped data, ignoring certain types of low-value data such as minor league signings and retirements. Also converted several scraped values from formatted strings to integers and corrected bad values.
 * Generated visualizations of how contract sizes vary by player age and the year they were signed, using Seaborn and Matplotlib.
+* Used Linear Regression packages to estimate a player's contract value based on the linear weights of their age and previous statistics.
 * Also web scraped the primary and secondary colors for each MLB team to format team-breakdown graphs.
 
 ![Bar chart showing MLB contract values by player age](https://i.imgur.com/4VR4Svb.png)
@@ -17,5 +18,6 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Using Pandas, cleaned the data. This included extracting ingredient names, converting various cook time formats to consistent numerical values, and locating HTML elements across multiple webpage layouts.
 * Generated charts of the most common ingredients, title keywords, and instructions using Matplotlib.
 * Analyzed distribution of recommended serving sizes and cook times, and generated visualizations using Matplotlib.
+* Analyzed pairs of ingredients which appear commonly together.
 
 ![Bar chart showing most common ingredient pairings in Allrecipes posts](https://i.imgur.com/8Bj57tA.png)
