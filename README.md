@@ -20,7 +20,7 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Analyzed pairs of ingredients which appear commonly together.
 <img src="https://i.imgur.com/8Bj57tA.png" alt="Bar chart showing most common ingredient pairings in Allrecipes posts" width="600"/>
 
-# Project 3: [Exit Surveys and Employee Dissatisfaction]
+# Project 3: [Exit Surveys and Employee Dissatisfaction](https://github.com/ryanjcarroll/Exit-Surveys-Data-Analysis)
 * Used publicly available data sets from Queensland, Australia government to analyze employee dissatisfaction in exit surveys.
 * Extensively cleaned two data sets of different formats and created common variables to merge them with.
 * Used heatmaps to locate and visualize missing data, trimming down the initial datasets to find the most complete columns to use in the analysis.
