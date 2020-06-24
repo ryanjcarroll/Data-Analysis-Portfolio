@@ -10,6 +10,7 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Generated visualizations of how contract sizes vary by player age and the year they were signed, using Seaborn and Matplotlib.
 * Used Linear Regression packages to estimate a player's contract value based on the linear weights of their age and previous statistics.
 * Also web scraped the primary and secondary colors for each MLB team to format team-breakdown graphs.
+
 <img src="https://i.imgur.com/4VR4Svb.png" alt="Bar chart showing MLB contract values by player age" width="500"/>
 <img src="https://i.imgur.com/p1ZD6hL.png" alt="Bar chart showing largest MLB contract values by team" width="500"/>
 
@@ -20,7 +21,8 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Generated charts of the most common ingredients, title keywords, and instructions using Matplotlib.
 * Analyzed distribution of recommended serving sizes and cook times, and generated visualizations using Matplotlib.
 * Analyzed pairs of ingredients which appear commonly together.
-<img src="https://i.imgur.com/8Bj57tA.png" alt="Bar chart showing most common ingredient pairings in Allrecipes posts" width="600"/>
+
+<img src="https://i.imgur.com/5oPXI20.png" alt="Bar chart showing most common ingredient pairings with bacon" width="500"/><img src="https://i.imgur.com/6xTFJ9e.png" alt="Bar chart and boxplot showing serving size distribution" width="400"/>
 
 # Project 3: [Exit Surveys and Employee Dissatisfaction](https://github.com/ryanjcarroll/Exit-Surveys-Data-Analysis)
 *Technologies Used: Jupyter, Python, Pandas, Matplotlib, Seaborn*
@@ -29,4 +31,5 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Used heatmaps to locate and visualize missing data, trimming down the initial datasets to find the most complete columns to use in the analysis.
 * Created a boolean measure of dissatisfaction based on answers to certain survey questions across the two survey formats.
 * Conducted an analysis of employee dissatisfaction by age and service time, generating visualizations.
+
 <img src="https://i.imgur.com/rYRnvGU.png" alt="Bar chart showing percent of dissatisfied employee resignations by age group" width="300"/><img src="https://i.imgur.com/ZuFPXiS.png" alt="Heatmap showing missing values in one of the project datasets" width="300"/>
