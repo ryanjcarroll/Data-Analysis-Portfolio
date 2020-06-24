@@ -22,7 +22,7 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Analyzed distribution of recommended serving sizes and cook times, and generated visualizations using Matplotlib.
 * Analyzed pairs of ingredients which appear commonly together.
 
-<img src="https://i.imgur.com/5oPXI20.png" alt="Bar chart showing most common ingredient pairings with bacon" width="500"/><img src="https://i.imgur.com/6xTFJ9e.png" alt="Bar chart and boxplot showing serving size distribution" width="400"/>
+<img src="https://i.imgur.com/5oPXI20.png" alt="Bar chart showing most common ingredient pairings with bacon" width="500"/><img src="https://i.imgur.com/6xTFJ9e.png?1" alt="Bar chart and boxplot showing serving size distribution" width="400"/>
 
 # Project 3: [Exit Surveys and Employee Dissatisfaction](https://github.com/ryanjcarroll/Exit-Surveys-Data-Analysis)
 *Technologies Used: Jupyter, Python, Pandas, Matplotlib, Seaborn*
