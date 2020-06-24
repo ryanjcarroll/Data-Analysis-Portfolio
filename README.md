@@ -25,5 +25,4 @@ Portfolio of data analysis related projects by Ryan Carroll.
 * Extensively cleaned two data sets of different formats and created common variables to merge them with.
 * Used heatmaps to locate and visualize missing data, trimming down the initial datasets to find the most complete columns to use in the analysis.
 * Conducted a brief analysis of employee dissatisfaction by age and service time, generating visualizations.
-<img src="https://i.imgur.com/rYRnvGU.png" alt="Bar chart showing percent of dissatisfied employee resignations by age group" width="300"/>
-<img src="https://i.imgur.com/ZuFPXiS.png" alt="Heatmap showing missing values in one of the project datasets" width="300"/>
+<img src="https://i.imgur.com/rYRnvGU.png" alt="Bar chart showing percent of dissatisfied employee resignations by age group" width="300"/><img src="https://i.imgur.com/ZuFPXiS.png" alt="Heatmap showing missing values in one of the project datasets" width="300"/>
